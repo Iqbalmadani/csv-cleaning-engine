@@ -1,0 +1,3 @@
+Customer Name,Email Address,Order Total,Order Date,Notes
+sample user,ALICE@example.com,"$1,250.00",2024-01-15,"Example item [1]"
+another sample,bob@example.com,$75.50,2024-02-20,"Synthetic entry ‡"

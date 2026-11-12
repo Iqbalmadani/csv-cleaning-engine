@@ -1,0 +1,8 @@
+{
+  "standardize_headers": true,
+  "Customer Name": { "type": "text", "case": "proper" },
+  "Email Address": { "type": "email" },
+  "Order Total": { "type": "currency" },
+  "Order Date": { "type": "date" },
+  "Notes": { "type": "text", "deep_clean": true }
+}
